@@ -1,4 +1,6 @@
-
+/*
+Created by Pratyush Raj
+*/
 
 #ifndef RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
 #define RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
